@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Homeopathic Rheumatism",
+    "price": 967.08,
+    "seller": "Jonathan Rodriguez"
+  },
+  {
+    "name": "ESIKA",
+    "price": 879.37,
+    "seller": "Jeremy Woods"
+  },
+  {
+    "name": "Naproxen",
+    "price": 807.22,
+    "seller": "Betty Lawson"
+  },
+  {
+    "name": "Prostate",
+    "price": 716.05,
+    "seller": "Betty Lawson"
+  },
+  {
+    "name": "ziprasidone hydrochloride",
+    "price": 628.66,
+    "seller": "Amanda Frazier"
+  }
+]
